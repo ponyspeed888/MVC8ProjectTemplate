@@ -16,6 +16,7 @@ The project elimiate all these steps.
 In addition, this project include 
 
 Code to seed identity user
+Add template.json so that this project can be install as project template
 
 
 
@@ -38,7 +39,7 @@ dotnet commands ;
 
 dotnet new install .
 
-dotnet new list ponyspeed888-mvc-templates
+dotnet new list ponyspeed888-mvc8-templates
 
 dotnet new uninstall .
 
