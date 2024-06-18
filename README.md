@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fponyspeed888%2FMVC8ProjectTemplate&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 This project come from my need to repeatedly creating new .NET Core MVC project with asp.net identity (for STUDY or TESTING, NOT SUITABLE FOR PRODUCTION) while studying asp.net core.  The standard project template created a project that require you to :
 
 1. Run migration to create a new database
